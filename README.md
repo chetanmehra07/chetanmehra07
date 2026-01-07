@@ -20,12 +20,13 @@ worked on both **Software Development** and **Hardware / Embedded Systems**
     <td width="50%" valign="top">
 
 ### Software
-- **Languages:** Python, C++, JavaScript, TypeScript  
-- **Frontend:** React, Material UI, Redux  
+- **Languages:** Python, C++, JavaScript, TypeScript, HTML, CSS  
+- **Frontend:** React, Material UI, Redux, Bootstrap  
 - **Backend:** FastAPI, REST APIs  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, Postman, VS Code  
 - **Deployment:** Netlify, Render, Railway  
+  
 
     </td>
     <td width="50%" valign="top">
